@@ -414,9 +414,9 @@ class PointCloudSettings(PropertyGroup):
     resolution: IntProperty(
         name="Resolution",
         description="Controls the number of points per unit area",
-        default=1000,
+        default=5,
         min=1,
-        max=10000,
+        max=1000,
     )
     subdivisions: IntProperty(
         name="Icosphere Subdivisions",

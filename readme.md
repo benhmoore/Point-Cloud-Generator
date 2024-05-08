@@ -1,5 +1,7 @@
 # Point Cloud Generator
 
+![Image showing GUI of Blender Addon](img/gui.png "Point Cloud Generator GUI")
+
 Point Cloud Generator is a Blender addon designed to generate point clouds and reference camera poses from meshes. It utilizes colors sampled from rendered frames, which can be used in NeRF or 3D-Gaussian reconstruction processes.
 
 **Supports Blender 4.0 and higher.** This is a work in progress.
